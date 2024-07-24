@@ -27,7 +27,7 @@ Micro frontends são uma arquitetura de desenvolvimento de software que divide u
 
 ### Tecnologias Comuns em Micro Frontends
 
-- _**Module Federation_ (Webpack 5): Permite que diferentes partes de um aplicativo sejam carregadas dinamicamente e sejam independentes umas das outras.
+- _**Module Federation (Webpack 5)**_: Permite que diferentes partes de um aplicativo sejam carregadas dinamicamente e sejam independentes umas das outras.
 - _**Single-SPA**_: Um framework para unificar micro frontends desenvolvidos com diferentes frameworks JavaScript.
 - _**Web Components**_: Padrões de navegador para criar componentes reutilizáveis e encapsulados.
 
