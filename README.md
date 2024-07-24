@@ -6,6 +6,7 @@ Documentação para conceitos de programação importantes para o desenvolviment
 
 - [Design Patterns](/files/design-patterns.md)
 - [Mensageria](/files/mensageria.md)
+- [Micro Frontends](/files/micro-frontends.md)
 - [Microservices](/files/microservices.md)
 - [Monolito](/files/monolito.md)
 - [Observabilidade](/files/observabilidade.md)
